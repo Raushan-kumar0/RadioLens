@@ -1,0 +1,28 @@
+# Web framework
+Flask==3.0.3
+Flask-WTF==1.2.1
+Flask-Uploads==0.2.1
+Flask-Executor==1.0.0
+WTForms==3.1.2
+
+# ML / CV
+tensorflow==2.16.1
+opencv-python==4.10.0.84
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+
+# PDF + email
+reportlab==4.2.2
+yagmail==0.15.293
+
+# LLM / RAG chatbot
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-google-genai==1.0.10
+InstructorEmbedding==1.0.1
+sentence-transformers==2.7.0
+faiss-cpu==1.8.0.post1
+
+# Config
+python-dotenv==1.0.1
